@@ -17,11 +17,6 @@ Instale o Git, Github Desktop ou use o terminal para
 
 ```
 
-## Autores
-
-- [@JadsonDanilo](https://github.com/JadsonDanilo)
-
-
 ## Aprendizados
 
 -Html
@@ -29,16 +24,21 @@ Instale o Git, Github Desktop ou use o terminal para
 -Git
 -Github Desktop
 
-## Licença
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-
 ## 🛠 Habilidades
 Pyhton, HTML, Bootstrap
 
 
 ## 🚀 Sobre mim
 Eu sou um estudante de tecnologia buscando sempre aprender mais e mais...
+
+
+## Autores
+
+- [@JadsonDanilo](https://github.com/JadsonDanilo)
+
+
+## Licença
+
+[MIT](https://choosealicense.com/licenses/mit/)
 
 

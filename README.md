@@ -39,6 +39,6 @@ Pyhton, HTML, Bootstrap
 
 
 ## 🚀 Sobre mim
-Eu sou um estudante por tecnologia buscando sempre aprender mais e mais...
+Eu sou um estudante de tecnologia buscando sempre aprender mais e mais...
 
 
